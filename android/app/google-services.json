@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277949983647",
+    "project_id": "bluber-340aa",
+    "storage_bucket": "bluber-340aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277949983647:android:b8aadc59c5544cdc34abaa",
+        "android_client_info": {
+          "package_name": "com.example.bluber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslgGggb4rzLCQrcMNj4BJGzh3TorRp74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
